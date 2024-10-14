@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/hello_window.dir/src/main.cpp.o  -o hello_window  /usr/local/lib/libglfw3.a -lrt -lm -ldl -lX11 -lpthread 

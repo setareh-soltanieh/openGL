@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/setareh/opengl_c++/src/config.h
+iostream
+-
+GLFW/glfw3.h
+-
+
+/home/setareh/opengl_c++/src/main.cpp
+config.h
+/home/setareh/opengl_c++/src/config.h
+

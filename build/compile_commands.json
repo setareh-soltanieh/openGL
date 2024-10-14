@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/setareh/opengl_c++/build",
+  "command": "/usr/bin/g++   -I/home/setareh/opengl_c++/dependencies  -g   -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /home/setareh/opengl_c++/src/main.cpp",
+  "file": "/home/setareh/opengl_c++/src/main.cpp"
+}
+]
