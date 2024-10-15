@@ -1,3 +1,0 @@
-/home/setareh/opengl_c++/build/CMakeFiles/rebuild_cache.dir
-/home/setareh/opengl_c++/build/CMakeFiles/edit_cache.dir
-/home/setareh/opengl_c++/build/CMakeFiles/hello_window.dir
